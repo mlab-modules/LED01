@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/LED01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/LED01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/LED01
+summary: LED01A is a simple MLAB module that contains 4 LED diodes. The module is
+  useful for debugging and indicating individual states of systems built from MLAB
+  construction kit

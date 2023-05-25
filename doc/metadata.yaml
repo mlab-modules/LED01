@@ -1,0 +1,25 @@
+description: LED01A is a simple MLAB module that contains 4 LED diodes. The module
+  is useful for debugging and indicating individual states of systems built from MLAB
+  construction kit
+github_branch: LED01A
+github_branches:
+- LED01A
+github_repo: LED01
+github_url: https://github.com/mlab-modules/LED01
+homepage: false
+image: doc/img/LED01A_1.jpg
+images:
+- doc/img/LED01A_1.jpg
+- doc/img/LED01A_2.jpg
+- doc/img/LED01A_big.jpg
+- doc/img/LED01A_small.jpg
+- doc/pdf/led1206dim_prew_600_0_color_fff.jpg
+- doc/img/LED01A_QRcode.png
+issues: 0
+mark: 50
+tags:
+- indication
+- led
+- mlab
+- visual
+title: LED01
