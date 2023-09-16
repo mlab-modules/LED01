@@ -17,7 +17,7 @@ images:
 - doc/img/LED01A_QRcode.png
 issues: 0
 mark: 50
-status: 0
+status: 2
 tags:
 - indication
 - led
