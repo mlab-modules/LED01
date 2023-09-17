@@ -7,7 +7,7 @@ github_branches:
 github_repo: LED01
 github_url: https://github.com/mlab-modules/LED01
 homepage: false
-image_title: doc/img/LED01A_1.jpg
+image_title: doc/img/LED01A_small.jpg
 images:
 - doc/img/LED01A_small.jpg
 - doc/img/LED01A_big.jpg
