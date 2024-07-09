@@ -12,11 +12,15 @@ github_url: https://github.com/mlab-modules/LED01
 homepage: false
 image_title: doc/img/LED01A_small.jpg
 images:
+- doc/pdf/led1206dim_prew_600_0_color_fff.jpg
 - doc/img/LED01A_small.jpg
 - doc/img/LED01A_big.jpg
+- doc/img/LED01-side.jpg
 - doc/img/LED01A_1.jpg
+- doc/img/LED01-side-small.jpg
+- doc/img/EOSR3080.jpg
+- doc/img/EOSR3080-2.jpg
 - doc/img/LED01A_2.jpg
-- doc/pdf/led1206dim_prew_600_0_color_fff.jpg
 - doc/img/LED01A_QRcode.png
 issues: 0
 mark: 50
@@ -30,4 +34,4 @@ tags:
 - led-indicator
 - mlab-ui
 title: LED01
-updated: '2023-09-17T11:50:31.891669+00:00'
+updated: '2024-07-09T00:28:44.577245+00:00'
